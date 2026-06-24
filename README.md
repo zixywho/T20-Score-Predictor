@@ -54,7 +54,8 @@ Cricket-Score-Predictor/
 └── notebooks/
 
 ```
-└── model_building.ipynb
+└── data extraction.ipynb
+└── feature extraction.ipynb
 ```
 
 ## Run Locally
