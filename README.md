@@ -2,6 +2,8 @@
 
 A Machine Learning web application that predicts the final first-innings score in a T20 cricket match based on the current match situation.
 
+Live Demo - https://t20-score-predictor-zixy.streamlit.app/
+
 ## Features
 
 * Predicts first-innings T20 scores in real time.
